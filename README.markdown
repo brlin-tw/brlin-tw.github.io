@@ -1,6 +1,13 @@
 # 林博仁<br>Buo-Ren, Lin
-台灣人、自由軟體使用者、倡導者與開發者、台灣在地化工作者、業餘形象設計者  
+關於林博仁的資訊
+<br>Information about Buo-Ren, Lin  
 <https://Lin-Buo-Ren.github.io>
+
+## 我的身份認同<br>My Identity
+* 台灣人
+* 自由軟體使用、倡導與開發者
+* 台灣在地化工作者
+* 業餘形象設計者
 
 ## 我的作品<br>My Works
 您可以在下列位置找到我的公開作品：

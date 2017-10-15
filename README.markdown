@@ -14,7 +14,8 @@ Information about Buo-Ren, Lin
   Amateur Image Designer
 
 ## 我的作品<br>My Works
-您可以在下列地方找到我的公開作品：
+您可以在下列地方找到我的公開作品：    
+You may found my public works at the following places:
 
 * [GitHub](https://github.com/Lin-Buo-Ren)
 * [slides](https://slides.com/lin-buo-ren)

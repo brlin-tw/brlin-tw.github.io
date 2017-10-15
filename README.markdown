@@ -1,6 +1,6 @@
 # 林博仁<br>Buo-Ren, Lin
-關於林博仁的資訊
-<br>Information about Buo-Ren, Lin  
+關於林博仁的資訊  
+Information about Buo-Ren, Lin  
 <https://Lin-Buo-Ren.github.io>
 
 ## 我的身份認同<br>My Identity

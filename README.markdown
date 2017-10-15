@@ -36,4 +36,4 @@ This work is intellectual property of Buo-Ren, Lin.
 Aside from content that is marked specifically, content of this work is released under the [Creative Commons Attribution-NoDerivatives license version 4.0](https://creativecommons.org/licenses/by-nd/4.0/) or any of its recent versions of your preference.
 
 另外除另外特別標示的內容外，**在變更描述對象的前提下**，本作品之內容以 [Creative Commons《姓名標示 - 相同方式分享》授權條款第 4.0 版](http://creativecommons.org/licenses/by-sa/4.0/)或其任意更近期版本釋出供所有人在授權範圍內自由使用。    
-Also aside from content that is marked specifically as well as **under the exception of changing the describing subject**, content of this work is released under the [Creative Commons Attribution-ShareAlike license version 4.0](https://creativecommons.org/licenses/by-sa/4.0/) or any of its recent version of your preference.
+Also aside from content that is marked specifically as well as **under the exception of changing the describing subject**, content of this work is released under the [Creative Commons Attribution-ShareAlike license version 4.0](https://creativecommons.org/licenses/by-sa/4.0/) or any of its recent versions of your preference.

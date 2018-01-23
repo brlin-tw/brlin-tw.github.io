@@ -19,9 +19,10 @@ You may found my public works at the following places:
 
 * [GitHub](https://github.com/Lin-Buo-Ren)
 * [slides](https://slides.com/lin-buo-ren)
+* [GitBook](https://www.gitbook.com/@lin-buo-ren)
 
 ## 我的聯絡方式<br>My Contact Info
-* 非祕密通訊（須 GitHub 帳號）  
+* 非祕密通訊（須登入 GitHub 帳號）  
   Public contact(requires GitHub account)  
   <https://github.com/Lin-Buo-Ren/Lin-Buo-Ren/issues>
 * 祕密通訊  

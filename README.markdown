@@ -4,6 +4,8 @@ Information about Buo-Ren, Lin
 <https://Lin-Buo-Ren.github.io>
 
 ## 我的身份認同<br>My Identities
+`$ whoami`
+
 * 台灣人  
   Taiwanese
 * 自由軟體使用、倡導與開發者  

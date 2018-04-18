@@ -24,7 +24,7 @@ You may found my public works at the following places:
 * [GitBook](https://www.gitbook.com/@lin-buo-ren)
 
 ## 我的統計數字<br>My Statistics
-* [林博仁(Buo-Ren Lin) | Sourcerer](https://sourcerer.io/lin-buo-ren)
+* [林博仁(Buo-Ren Lin) &#124; Sourcerer](https://sourcerer.io/lin-buo-ren)
 
 ## 我的聯絡方式<br>My Contact Info
 * 非祕密通訊（須登入 GitHub 帳號）  

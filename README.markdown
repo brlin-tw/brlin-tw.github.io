@@ -1,4 +1,4 @@
-# 林博仁<br>Buo-Ren, Lin
+# 林博仁<br>Buo-ren, Lin
 關於林博仁的資訊  
 Information about Buo-Ren, Lin  
 <https://Lin-Buo-Ren.github.io>

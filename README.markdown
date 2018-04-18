@@ -28,10 +28,10 @@ You may found my public works at the following places:
 
 ## 我的聯絡方式<br>My Contact Info
 * 非祕密通訊（須登入 GitHub 帳號）  
-  Public contact(requires GitHub account)  
+  Public communication(requires GitHub account)  
   <https://github.com/Lin-Buo-Ren/Lin-Buo-Ren/issues>
 * 祕密通訊  
-  Private contact  
+  Private communication  
   <Buo.Ren.Lin@gmail.com>
 
 ## 智慧財產授權<br>Intellectual Property License

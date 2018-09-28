@@ -22,6 +22,7 @@ You may found my public works at the following places:
 * [GitHub](https://github.com/Lin-Buo-Ren)
 * [slides](https://slides.com/lin-buo-ren)
 * [GitBook](https://www.gitbook.com/@lin-buo-ren)
+* [SlideShare](https://www.slideshare.net/BuoRenLin)
 
 ## 我的統計數字<br>My Statistics
 * [林博仁(Buo-Ren Lin) &#124; Sourcerer](https://sourcerer.io/lin-buo-ren)

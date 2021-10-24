@@ -1,9 +1,11 @@
 # 林博仁<br>Buo-ren, Lin
+
 關於林博仁的資訊  
 Information about Buo-Ren, Lin  
 <https://Lin-Buo-Ren.github.io>
 
 ## 我的身份認同<br>My Identities
+
 `$ whoami`
 
 * 台灣人  
@@ -16,6 +18,7 @@ Information about Buo-Ren, Lin
   Amateur Image Designer
 
 ## 我的作品<br>My Works
+
 您可以在下列地方找到我的公開作品：    
 You may found my public works at the following places:
 
@@ -25,9 +28,11 @@ You may found my public works at the following places:
 * [SlideShare](https://www.slideshare.net/BuoRenLin)
 
 ## 我的統計數字<br>My Statistics
+
 * [林博仁(Buo-Ren Lin) &#124; Sourcerer](https://sourcerer.io/lin-buo-ren)
 
 ## 我的聯絡方式<br>My Contact Info
+
 * 非祕密通訊（須登入 GitHub 帳號）  
   Public communication(requires GitHub account)  
   <https://github.com/Lin-Buo-Ren/Lin-Buo-Ren/issues>
@@ -36,6 +41,7 @@ You may found my public works at the following places:
   <Buo.Ren.Lin@gmail.com>
 
 ## 智慧財產授權<br>Intellectual Property License
+
 本作品為林博仁的智慧財產。    
 This work is intellectual property of Buo-Ren, Lin.
 

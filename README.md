@@ -10,7 +10,7 @@ English [中文（台灣）](https://brlin.me/README.zh-TW.html)
 `$ whoami`
 
 * Taiwanese
-* Free Software user, advocate and developer
+* [Free (as in freedom) software](https://en.wikipedia.org/wiki/Free_software) user, advocate and developer
 * Taiwanese Chinese localization(L10N) contributer
 * Amateur logo and brand designer
 

@@ -11,8 +11,8 @@ English [中文（台灣）](https://brlin.me/README.zh-TW.html)
 
 * Taiwanese
 * Free Software user, advocate and developer
-* Taiwan Localization Pusher
-* Amateur Image Designer
+* Taiwanese Chinese localization(L10N) contributer
+* Amateur logo and brand designer
 
 ## My works
 

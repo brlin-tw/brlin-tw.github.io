@@ -3,7 +3,7 @@
 關於林博仁的資訊  
 <https://brlin.me>
 
-English [中文（台灣）](https://brlin.me/README.zh_TW.html)
+English [中文（台灣）](https://brlin.me/README.zh-TW.html)
 
 ## 我的身份認同
 

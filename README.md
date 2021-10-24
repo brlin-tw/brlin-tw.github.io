@@ -3,7 +3,7 @@
 Information about Buo-ren, Lin  
 <https://brlin.me>
 
-English [中文（台灣）](https://brlin.me/README.zh_TW.html)
+English [中文（台灣）](https://brlin.me/README.zh-TW.html)
 
 ## My identities
 

@@ -24,7 +24,6 @@ You may found my public works at the following places:
 
 * [My GitHub projects](https://github.com/Lin-Buo-Ren?tab=repositories&type=source)
 * [My Slides presentations](https://slides.com/lin-buo-ren)
-* [My GitBook books](https://www.gitbook.com/@lin-buo-ren)
 * [My SlideShare presentations](https://www.slideshare.net/BuoRenLin)
 
 ## 我的統計數字<br>My statistics

@@ -22,14 +22,14 @@ Information about Buo-ren, Lin
 您可以在下列地方找到我的公開作品：    
 You may found my public works at the following places:
 
-* [GitHub](https://github.com/Lin-Buo-Ren)
-* [slides](https://slides.com/lin-buo-ren)
-* [GitBook](https://www.gitbook.com/@lin-buo-ren)
-* [SlideShare](https://www.slideshare.net/BuoRenLin)
+* [My GitHub projects](https://github.com/Lin-Buo-Ren?tab=repositories&type=source)
+* [My Slides presentations](https://slides.com/lin-buo-ren)
+* [My GitBook books](https://www.gitbook.com/@lin-buo-ren)
+* [My SlideShare presentations](https://www.slideshare.net/BuoRenLin)
 
 ## 我的統計數字<br>My statistics
 
-* [林博仁(Buo-Ren Lin) &#124; Sourcerer](https://sourcerer.io/lin-buo-ren)
+* [My GitHub profile](https://github.com/Lin-Buo-Ren)
 
 ## 我的聯絡方式<br>My contact information
 

@@ -31,7 +31,7 @@ You may found my public works at the following places:
 
 * [林博仁(Buo-Ren Lin) &#124; Sourcerer](https://sourcerer.io/lin-buo-ren)
 
-## 我的聯絡方式<br>My contact info
+## 我的聯絡方式<br>My contact information
 
 * 非祕密通訊（須登入 GitHub 帳號）  
   Public communication(requires GitHub account)  
@@ -40,7 +40,7 @@ You may found my public works at the following places:
   Private communication  
   <Buo.Ren.Lin@gmail.com>
 
-## 智慧財產授權<br>Intellectual property license
+## 智慧財產授權<br>Licensing
 
 本作品為林博仁的智慧財產。    
 This work is intellectual property of Buo-Ren, Lin.

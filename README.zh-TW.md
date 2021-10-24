@@ -33,7 +33,7 @@
 * 祕密通訊  
   <Buo.Ren.Lin@gmail.com>
 
-## 智慧財產授權<br>Licensing
+## 智慧財產授權
 
 本作品為林博仁的智慧財產。
 

@@ -1,7 +1,7 @@
 # 林博仁<br>Buo-ren, Lin
 
 關於林博仁的資訊  
-Information about Buo-Ren, Lin  
+Information about Buo-ren, Lin  
 <https://brlin.me>
 
 ## 我的身份認同<br>My Identities

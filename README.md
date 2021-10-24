@@ -2,7 +2,7 @@
 
 關於林博仁的資訊  
 Information about Buo-Ren, Lin  
-<https://Lin-Buo-Ren.github.io>
+<https://brlin.me>
 
 ## 我的身份認同<br>My Identities
 

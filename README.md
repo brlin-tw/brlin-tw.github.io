@@ -18,13 +18,13 @@ English [中文（台灣）](https://brlin.me/README.zh-TW.html)
 
 You may found my public works at the following places:
 
-* [My GitHub projects](https://github.com/Lin-Buo-Ren?tab=repositories&type=source)
+* [My GitHub projects](https://github.com/brlin-tw?tab=repositories&type=source)
 * [My Slides presentations](https://slides.com/lin-buo-ren)
 * [My SlideShare presentations](https://www.slideshare.net/BuoRenLin)
 
 ## My statistics
 
-* [My GitHub profile](https://github.com/Lin-Buo-Ren)
+* [My GitHub profile](https://github.com/brlin-tw)
 
 ## My contact information
 

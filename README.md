@@ -35,7 +35,7 @@ You may found my public works at the following places:
 * Public communication(requires GitHub account)  
   <https://github.com/brlin-tw/brlin-tw/issues>
 * Private communication  
-  <Buo.Ren.Lin@gmail.com>
+  <buo.ren.lin@gmail.com>
 
 ## Licensing
 

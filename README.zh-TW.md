@@ -35,7 +35,7 @@
 * 非祕密通訊（須登入 GitHub 帳號）  
   <https://github.com/brlin-tw/brlin-tw/issues>
 * 祕密通訊  
-  <Buo.Ren.Lin@gmail.com>
+  <buo.ren.lin@gmail.com>
 
 ## 智慧財產授權
 

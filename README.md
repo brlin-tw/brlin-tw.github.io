@@ -1,6 +1,6 @@
-# 林博仁(Buo-ren, Lin)
+# 林博仁(Buo-ren Lin)
 
-Information about Buo-ren, Lin  
+Information about Buo-ren Lin  
 <https://brlin.me>
 
 English [中文（台灣）](https://brlin.me/README.zh-TW.html)
@@ -35,7 +35,7 @@ You may found my public works at the following places:
 
 ## Licensing
 
-This work is intellectual property of 林博仁(Buo-ren, Lin).
+This work is intellectual property of 林博仁(Buo-ren Lin).
 
 Aside from content that is marked specifically, content of this work is released under the [Creative Commons Attribution-NoDerivatives license version 4.0](https://creativecommons.org/licenses/by-nd/4.0/) or any of its recent versions of your preference.
 

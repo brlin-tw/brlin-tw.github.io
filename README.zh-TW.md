@@ -26,6 +26,10 @@
 
 * [我的 GitHub 個人檔案](https://github.com/brlin-tw)
 
+## 更多資訊
+
+[我的履歷](https://www.brlin.me/resume/README.zh_TW.html)
+
 ## 我的聯絡方式
 
 * 非祕密通訊（須登入 GitHub 帳號）  

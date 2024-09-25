@@ -26,6 +26,10 @@ You may found my public works at the following places:
 
 * [My GitHub profile](https://github.com/brlin-tw)
 
+## See also
+
+[My résumé](https://brlin.me/resume/)
+
 ## My contact information
 
 * Public communication(requires GitHub account)  

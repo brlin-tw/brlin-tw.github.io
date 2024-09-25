@@ -29,7 +29,7 @@ You may found my public works at the following places:
 ## My contact information
 
 * Public communication(requires GitHub account)  
-  <https://github.com/Lin-Buo-Ren/Lin-Buo-Ren/issues>
+  <https://github.com/brlin-tw/brlin-tw/issues>
 * Private communication  
   <Buo.Ren.Lin@gmail.com>
 

@@ -18,18 +18,18 @@
 
 您可以在下列地方找到我的公開作品：
 
-* [我的 GitHub 專案](https://github.com/Lin-Buo-Ren?tab=repositories&type=source)
+* [我的 GitHub 專案](https://github.com/brlin-tw?tab=repositories&type=source)
 * [我的 Slides 簡報](https://slides.com/lin-buo-ren)
 * [我的 SlideShare 簡報](https://www.slideshare.net/BuoRenLin)
 
 ## 我的統計數字
 
-* [我的 GitHub 個人檔案](https://github.com/Lin-Buo-Ren)
+* [我的 GitHub 個人檔案](https://github.com/brlin-tw)
 
 ## 我的聯絡方式
 
 * 非祕密通訊（須登入 GitHub 帳號）  
-  <https://github.com/Lin-Buo-Ren/Lin-Buo-Ren/issues>
+  <https://github.com/brlin-tw/brlin-tw/issues>
 * 祕密通訊  
   <Buo.Ren.Lin@gmail.com>
 

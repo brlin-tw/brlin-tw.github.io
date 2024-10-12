@@ -64,3 +64,9 @@ indent_size = 2
 [/LICENSES/*]
 indent_size = unset
 indent_style = unset
+
+[*.html]
+indent_size = 2
+
+[Gemfile]
+indent_size = 2

@@ -24,3 +24,10 @@ SPDX-License-Identifier = 'CC-BY-SA-4.0+'
 path = "CNAME"
 SPDX-FileCopyrightText = '1900 Non-intellectual property work <https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant>'
 SPDX-License-Identifier = 'CC0-1.0'
+
+[[annotations]]
+path = [
+    "Gemfile.lock"
+]
+SPDX-FileCopyrightText = "1970 Computer-generated data, no copyright"
+SPDX-License-Identifier = "CC0-1.0"

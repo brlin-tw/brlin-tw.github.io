@@ -5,9 +5,9 @@ title: 林博仁的個人網站
 # 林博仁
 
 關於林博仁的資訊  
-<{{ site.url }}{{ site.baseurl }}>
+<{{ "/" | absolute_url }}>
 
-[English]({{ site.url }}{{ site.baseurl }}) 中文（台灣）
+[English]({{ "/" | absolute_url }}) 中文（台灣）
 
 ## 我的身份認同
 
@@ -32,7 +32,7 @@ title: 林博仁的個人網站
 
 ## 更多資訊
 
-[我的履歷]({{ site.url }}{{ site.baseurl }}resume/index.zh_TW.html)
+[我的履歷]({{ "/resume/index.zh_TW.html" | absolute_url }})
 
 ## 我的聯絡方式
 

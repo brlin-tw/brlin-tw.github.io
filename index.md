@@ -5,9 +5,9 @@ title: Personal website of Buo-ren Lin
 # 林博仁 Buo-ren Lin
 
 Information about Buo-ren Lin  
-<{{ site.url }}{{ site.baseurl }}>
+<{{ "/" | absolute_url }}>
 
-English [中文（台灣）]({{ site.url }}{{ site.baseurl }}index.zh-TW.html)
+English [中文（台灣）]({{ "/index.zh-TW.html" | absolute_url }})
 
 ## My identities
 
@@ -32,7 +32,7 @@ You may found my public works at the following places:
 
 ## See also
 
-[My résumé]({{ site.url }}resume/)
+[My résumé]({{ "/resume/" | absolute_url }})
 
 ## My contact information
 

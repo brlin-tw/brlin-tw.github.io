@@ -12,3 +12,7 @@ url: https://brlin.gitlab.io
 baseurl: /
 
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

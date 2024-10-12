@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 林博仁 Buo-ren Lin
 
 Information about Buo-ren Lin  

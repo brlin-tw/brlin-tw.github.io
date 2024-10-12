@@ -87,3 +87,6 @@
 
 # Don't track continuous integration virtual environments
 /continuous-integration/venv/
+
+# Don't track built Jekyll site
+/_site/

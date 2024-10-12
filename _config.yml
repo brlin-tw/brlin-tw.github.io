@@ -8,4 +8,7 @@
 # Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
 
+url: https://brlin.gitlab.io
+baseurl: /
+
 theme: jekyll-theme-cayman

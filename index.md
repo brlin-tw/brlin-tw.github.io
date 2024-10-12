@@ -4,9 +4,9 @@ layout: default
 # 林博仁 Buo-ren Lin
 
 Information about Buo-ren Lin  
-<https://brlin.me>
+<{{ site.url }}{{ site.baseurl }}>
 
-English [中文（台灣）](https://brlin.me/README.zh-TW.html)
+English [中文（台灣）]({{ site.url }}{{ site.baseurl }}index.zh-TW.html)
 
 ## My identities
 
@@ -31,7 +31,7 @@ You may found my public works at the following places:
 
 ## See also
 
-[My résumé](https://brlin.me/resume/)
+[My résumé]({{ site.url }}resume/)
 
 ## My contact information
 

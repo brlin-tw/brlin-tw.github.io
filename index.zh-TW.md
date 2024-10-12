@@ -4,9 +4,9 @@ layout: default
 # 林博仁
 
 關於林博仁的資訊  
-<https://brlin.me>
+<{{ site.url }}{{ site.baseurl }}>
 
-[English](https://brlin.me/) 中文（台灣）
+[English]({{ site.url }}{{ site.baseurl }}) 中文（台灣）
 
 ## 我的身份認同
 

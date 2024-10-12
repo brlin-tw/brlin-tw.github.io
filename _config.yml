@@ -9,7 +9,7 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 
 url: https://brlin.gitlab.io
-baseurl: /
+baseurl: ''
 
 theme: jekyll-theme-cayman
 

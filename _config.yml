@@ -14,8 +14,8 @@ baseurl: ''
 theme: jekyll-theme-cayman
 
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - continuous-integration/

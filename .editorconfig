@@ -68,5 +68,8 @@ indent_style = unset
 [*.html]
 indent_size = 2
 
+[*.scss]
+indent_size = 2
+
 [Gemfile]
 indent_size = 2

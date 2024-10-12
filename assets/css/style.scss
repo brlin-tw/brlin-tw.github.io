@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Don't show site theme's footer, which hardcodes GitHub Pages */
+footer {
+  display: none;
+}

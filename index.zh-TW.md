@@ -31,7 +31,7 @@ layout: default
 
 ## 更多資訊
 
-[我的履歷](https://www.brlin.me/resume/README.zh_TW.html)
+[我的履歷]({{ site.url }}{{ site.baseurl }}resume/index.zh_TW.html)
 
 ## 我的聯絡方式
 

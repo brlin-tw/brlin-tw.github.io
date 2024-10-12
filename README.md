@@ -1,46 +1,21 @@
-# 林博仁 Buo-ren Lin
+# Personal website of Buo-ren Lin
 
-Information about Buo-ren Lin  
-<https://brlin.me>
+Feature information about me, also served as my personal website hosted at [https://brlin.me](https://brlin.me).
 
-English [中文（台灣）](https://brlin.me/README.zh-TW.html)
+<https://gitlab.com/brlin/brlin.gitlab.io>  
+[![The GitLab CI pipeline status badge of the project's `main` branch](https://gitlab.com/brlin/brlin.gitlab.io/badges/main/pipeline.svg?ignore_skipped=true "Click here to check out the comprehensive status of the GitLab CI pipelines")](https://gitlab.com/brlin/brlin.gitlab.io/-/pipelines) [![GitHub Actions workflow status badge](https://github.com/brlin-tw/brlin-tw.github.io/actions/workflows/check-potential-problems.yml/badge.svg "GitHub Actions workflow status")](https://github.com/brlin-tw/brlin-tw.github.io/actions/workflows/check-potential-problems.yml) [![pre-commit enabled badge](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "This project uses pre-commit to check potential problems")](https://pre-commit.com/) [![REUSE Specification compliance badge](https://api.reuse.software/badge/gitlab.com/brlin/brlin.gitlab.io "This project complies to the REUSE specification to decrease software licensing costs")](https://api.reuse.software/info/gitlab.com/brlin/brlin.gitlab.io)
 
-## My identities
+## References
 
-`$ whoami`
+The following material are referenced during the development of this project:
 
-* Taiwanese
-* [Free (as in freedom) software](https://en.wikipedia.org/wiki/Free_software) user, advocate and developer
-* Taiwanese Chinese localization(L10N) contributer
-* Amateur logo and brand designer
-
-## My works
-
-You may found my public works at the following places:
-
-* [My GitHub projects](https://github.com/brlin-tw?tab=repositories&type=source)
-* [My Slides presentations](https://slides.com/lin-buo-ren)
-* [My SlideShare presentations](https://www.slideshare.net/BuoRenLin)
-
-## My statistics
-
-* [My GitHub profile](https://github.com/brlin-tw)
-
-## See also
-
-[My résumé](https://brlin.me/resume/)
-
-## My contact information
-
-* Public communication(requires GitHub account)  
-  <https://github.com/brlin-tw/brlin-tw/issues>
-* Private communication  
-  <buo.ren.lin@gmail.com>
+* [Configuration Options | Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/docs/configuration/options/)  
+  Explains the configuration options of Jekyll.
+* [GitLab Pages | GitLab](https://docs.gitlab.com/ee/user/project/pages/index.html)  
+  Explains how to configure a GitLab Pages website.
 
 ## Licensing
 
-This work is intellectual property of 林博仁(Buo-ren Lin).
+Unless otherwise noted(individual file's header/[REUSE.toml](REUSE.toml)), this product is licensed under [the 4.0 International version of the Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/), or any of its more recent versions of your preference.
 
-Aside from content that is marked specifically, content of this work is released under the [Creative Commons Attribution-NoDerivatives license version 4.0](https://creativecommons.org/licenses/by-nd/4.0/) or any of its recent versions of your preference.
-
-Also aside from content that is marked specifically as well as **under the exception of changing the describing subject**, content of this work is released under the [Creative Commons Attribution-ShareAlike license version 4.0](https://creativecommons.org/licenses/by-sa/4.0/) or any of its recent versions of your preference.
+This work complies to [the REUSE Specification](https://reuse.software/spec/), refer the [REUSE - Make licensing easy for everyone](https://reuse.software/) website for info regarding the licensing of this product.

@@ -1,1 +1,11 @@
+# Jekyll configuration file
+#
+# References:
+#
+# * Configuration | Jekyll • Simple, blog-aware, static sites
+#   https://jekyllrb.com/docs/configuration/
+#
+# Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 theme: jekyll-theme-cayman

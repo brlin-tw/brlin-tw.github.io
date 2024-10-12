@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Personal website of Buo-ren Lin
 ---
 # 林博仁 Buo-ren Lin
 

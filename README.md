@@ -5,6 +5,8 @@ Feature information about me, also served as my personal website hosted at [http
 <https://gitlab.com/brlin/brlin.gitlab.io>  
 [![The GitLab CI pipeline status badge of the project's `main` branch](https://gitlab.com/brlin/brlin.gitlab.io/badges/main/pipeline.svg?ignore_skipped=true "Click here to check out the comprehensive status of the GitLab CI pipelines")](https://gitlab.com/brlin/brlin.gitlab.io/-/pipelines) [![GitHub Actions workflow status badge](https://github.com/brlin-tw/brlin-tw.github.io/actions/workflows/check-potential-problems.yml/badge.svg "GitHub Actions workflow status")](https://github.com/brlin-tw/brlin-tw.github.io/actions/workflows/check-potential-problems.yml) [![pre-commit enabled badge](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "This project uses pre-commit to check potential problems")](https://pre-commit.com/) [![REUSE Specification compliance badge](https://api.reuse.software/badge/gitlab.com/brlin/brlin.gitlab.io "This project complies to the REUSE specification to decrease software licensing costs")](https://api.reuse.software/info/gitlab.com/brlin/brlin.gitlab.io)
 
+\#personal-website \#jekyll \#gitlab-pages \#github-pages
+
 ## References
 
 The following material are referenced during the development of this project:

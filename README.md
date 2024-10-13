@@ -15,6 +15,10 @@ The following material are referenced during the development of this project:
   Explains the configuration options of Jekyll.
 * [GitLab Pages | GitLab](https://docs.gitlab.com/ee/user/project/pages/index.html)  
   Explains how to configure a GitLab Pages website.
+* [GitLab Pages custom domains | GitLab](https://docs.gitlab.com/ee/user/project/pages/custom_domains_ssl_tls_certification/#for-both-root-and-subdomains)  
+  Explains how to setup custom domains for a GitLab Pages site.
+* [Encryption modes | Cloudflare SSL/TLS docs](https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/)  
+  Explains how to make Cloudflare CDN service fetch resources from origin servers using HTTPS connection.
 
 ## Licensing
 

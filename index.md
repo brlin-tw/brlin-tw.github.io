@@ -32,7 +32,7 @@ You may found my public works at the following places:
 
 ## See also
 
-[My résumé]({{ "/resume/" | absolute_url }})
+[My résumé](https://resume.brlin.me)
 
 ## My contact information
 

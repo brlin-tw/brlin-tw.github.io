@@ -32,7 +32,7 @@ title: 林博仁的個人網站
 
 ## 更多資訊
 
-[我的履歷]({{ "/resume/index.zh_TW.html" | absolute_url }})
+[我的履歷](https://resume.brlin.me/index.zh_TW.html)
 
 ## 我的聯絡方式
 

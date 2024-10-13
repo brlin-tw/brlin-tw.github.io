@@ -9,7 +9,7 @@ title: 林博仁的個人網站
 
 [English]({{ "/" | absolute_url }}) 中文（台灣）
 
-## 我的身份認同
+## 關於我
 
 `$ whoami`
 

@@ -9,7 +9,7 @@ Information about Buo-ren Lin
 
 English [中文（台灣）]({{ "/index.zh-TW.html" | absolute_url }})
 
-## My identities
+## About me
 
 `$ whoami`
 

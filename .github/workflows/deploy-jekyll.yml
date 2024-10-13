@@ -51,7 +51,7 @@ jobs:
           sed \
             --in-place \
             --regexp-extended \
-            --expression='s@brlin\.gitlab\.io@brlin-tw.github.io@' \
+            --expression='s@brlin\.me@brlin-tw.github.io@' \
             _config.yml
 
       - name: Build with Jekyll

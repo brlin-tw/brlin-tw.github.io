@@ -23,6 +23,7 @@ English [中文（台灣）]({{ "/index.zh-TW.html" | absolute_url }})
 You may found my public works at the following places:
 
 * [My GitHub projects](https://github.com/brlin-tw?tab=repositories&type=source)
+* [My GitLab projects](https://gitlab.com/users/brlin/projects)
 * [My Slides presentations](https://slides.com/lin-buo-ren)
 * [My SlideShare presentations](https://www.slideshare.net/BuoRenLin)
 

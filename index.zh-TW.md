@@ -23,6 +23,7 @@ title: 林博仁的個人網站
 您可以在下列地方找到我的公開作品：
 
 * [我的 GitHub 專案](https://github.com/brlin-tw?tab=repositories&type=source)
+* [我的 GitLab 專案](https://gitlab.com/users/brlin/projects)
 * [我的 Slides 簡報](https://slides.com/lin-buo-ren)
 * [我的 SlideShare 簡報](https://www.slideshare.net/BuoRenLin)
 
